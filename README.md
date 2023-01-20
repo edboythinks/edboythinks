@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Dan.
+
+- 🔭 I’m currently working on Slake, a procedurally-generated text adventure written in Python.
+- 🌱 I’m currently learning everything I can about Python! Soon, I hope to pick up a C language (probably C++) and eventually Rust.
+- 👯 I’m looking to collaborate on applications implementing data handling scripts in Python, possibly also applications that implement the pyqt module.
+
+
+- 📫 Feel free to reach out to me via my publicly listed email address or via matrix at @edboythinks:matrix.org
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: All of my development is done on a Linux machine. I have a great appreciation for the kernel itself and its extensibility with all of the various toolsets it uses.
